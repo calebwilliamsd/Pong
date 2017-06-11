@@ -9,7 +9,7 @@ public class Ball implements Runnable {
 	//global variables
 	int x, y, xDirection, yDirection;
 	
-	
+	// new stuff
 	int p1score, p2score;
 	
 	Paddle p1 = new Paddle(10, 25, 1);
