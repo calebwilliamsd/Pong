@@ -7,6 +7,7 @@ import java.util.Random;
 public class Ball implements Runnable {
 
 	//global variables
+	// additionally, lol Marquise
 	int x, y, xDirection, yDirection;
 	
 	// new stuff
